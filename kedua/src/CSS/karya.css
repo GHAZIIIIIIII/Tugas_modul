@@ -1,0 +1,20 @@
+.karya {
+    display: flex;
+    justify-content: center; /* Memposisikan isi di tengah secara horizontal */
+    align-items: center; /* Memposisikan isi di tengah secara vertical */
+    height: 70vh; /* Atur tinggi sesuai kebutuhan */
+}
+
+.isikon{
+    display: flex;
+    justify-content: center; /* Memposisikan isi di tengah secara horizontal */
+    align-items: center; /* Memposisikan isi di tengah secara vertical */
+    margin-top: -250px;
+}
+
+.isikont{
+    display: flex;
+    justify-content: center; /* Memposisikan isi di tengah secara horizontal */
+    align-items: center; /* Memposisikan isi di tengah secara vertical */
+}
+

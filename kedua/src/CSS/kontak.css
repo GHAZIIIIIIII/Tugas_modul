@@ -1,0 +1,9 @@
+.kontak {
+    display: flex;
+    justify-content: center; /* Memposisikan isi di tengah secara horizontal */
+    align-items: center; /* Memposisikan isi di tengah secara vertical */
+    height: 70vh; /* Atur tinggi sesuai kebutuhan */
+}
+.git{
+  margin-left: 715px;
+}

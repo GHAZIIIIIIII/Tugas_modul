@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap'); 
+ 
+*{
+
+  font: 'Poppins', sans-serif;
+}
+
+.gambar{   
+  text-align: right;
+  display: inline-block;
+}
+
+.gambar img{
+  border-radius: 8px;
+  border: 2px rgba(255, 246, 246, 0);
+  width: 340px;
+  height:340px;
+  object-fit: cover;
+  margin-right: 80px;
+}
+
+.perkenalan{
+  flex: 1;
+  margin-top: -20px;
+}
+
+.judulper{
+  margin-top: 40px;
+  font-size: 25px;
+  font-weight: bolder;
+  display: inline-block;
+
+}
+.judulper span{
+  color: black;
+}
+.isiper{
+  width: 550px;
+  text-align: justify;
+}
+
+.tentangs   {
+  margin-left: 300px;
+  margin-top: 200px;
+  display: flex;
+  height: 450px;
+}
+
